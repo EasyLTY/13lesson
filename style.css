@@ -1,0 +1,58 @@
+.gog{
+	background-color: cyan;
+	height: 150px;
+	widows: 400px;
+	margin-top: 5px;
+	border: 1px solid black;
+	margin:0px;
+}
+.gog1{
+	background-color: yellow;
+	height: 75px;
+	widows: 400px;
+	margin-top: 5px;
+	border: 1px solid black;
+	margin: 0px;
+}
+.gog2{
+	background-color: blue;
+	height: 75px;
+	widows: 400px;
+	margin-top: 5px;
+	border: 1px solid black;
+	margin: 0px;
+}
+.bab{
+	background-color: red;
+	height: 350px;
+}
+.ban{
+	border: 1px solid black;
+	margin:0px;
+	height: 350px;
+}
+.bab1{
+	background-color: yellow;
+	height: 350px;
+}
+.ban1{
+	border: 1px solid black;
+	height: 350px;
+	background-color: pink;
+}
+.ban2{
+	background-color: purple;
+	height: 175px;
+	border: 1px solid black;
+}
+.yon{
+	background-color: grey;
+	height: 175px;
+	border: 1px solid black;
+}
+.yon2{
+	background-color: red;
+	height: 175px;
+	border: 1px solid black;
+}
+
